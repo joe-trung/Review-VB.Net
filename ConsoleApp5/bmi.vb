@@ -1,4 +1,5 @@
 ﻿Public Class BMI : Implements IComparable
+
     Private pWeight As Decimal
     Private pHeight As Decimal
     Public Property Weight

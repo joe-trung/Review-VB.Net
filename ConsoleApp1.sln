@@ -13,6 +13,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp5", "ConsoleApp5\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.vbproj", "{206E41E5-92E5-4486-B488-28FABB20F10C}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp7", "ConsoleApp7\ConsoleApp7.vbproj", "{8DDB77CA-FC14-4647-AC69-35793EC6CE17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{206E41E5-92E5-4486-B488-28FABB20F10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{206E41E5-92E5-4486-B488-28FABB20F10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{206E41E5-92E5-4486-B488-28FABB20F10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDB77CA-FC14-4647-AC69-35793EC6CE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDB77CA-FC14-4647-AC69-35793EC6CE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDB77CA-FC14-4647-AC69-35793EC6CE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDB77CA-FC14-4647-AC69-35793EC6CE17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
